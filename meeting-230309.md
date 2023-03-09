@@ -19,7 +19,7 @@ The Kanban Boards will have the following columns:
 - Done (Cards that are successfully code reviewed and tested)
 - Released (Cards that are releaed to the main branch)
 
-
+A sprint has a duration of two weeks. Sprint Plannings, Refinements and -Reviews will happen of the corresponding point of time.
 
 ### Strcuture of the sub teams:
 
