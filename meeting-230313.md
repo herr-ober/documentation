@@ -9,3 +9,12 @@
 - The prototype of the different user interfaces is already existent and will be used further
 - The recap will be written by Linas Vockensohn
 - The project kickoff will take place on Thursday, 16.03.
+
+### Recap:
+
+- What we **have to** achieve for sure
+  - 1
+- What we **can** achieve for sure
+  - 2
+- What we **could** achieve (with risks)
+  - 3 
