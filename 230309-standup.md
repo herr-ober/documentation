@@ -1,4 +1,4 @@
-## Meeting 09.03.2023
+## Standup 09.03.2023
 
 ### Outcomes:
 
