@@ -12,9 +12,41 @@
 
 ### Recap:
 
-- What we **have to** achieve for sure
-  - 1
-- What we **can** achieve for sure
-  - 2
-- What we **could** achieve (with risks)
-  - 3 
+- What we **have to** achieve for sure:
+    - Account management
+      - Create organizer account
+      - Sign in with organizer account
+      - Sign in as staff with code
+    - Create event
+      - Add staff
+      - Add product
+      - Add table
+    - Manage event
+      - Manage staff
+      - Manage products
+      - Manage tables
+      - End event
+    - Manage orders
+      - Add new order
+      - View and edit product state
+      - Mark product as delivered
+      - Display all orders
+   
+- What we **can** achieve for sure:
+  - Add special wishes to orders
+  - Split the bill
+  - Visually appealing interface
+  - Performant and stable software
+
+- What we **could** achieve (with risks):
+  - Payment options
+    - In addition to the two common payment options such as card and cash also offer external payment providers, like for example PayPal
+    - Risk: In order to include external service providers in the process, additional external accounts must be created. In this way, the cash flow is managed via different providers instead of via cash and a single bank account. You have to be able to keep track of this and manage the money.
+    - Risk: Additional providers usually require fees and our product should not cost extra or generate negative revenue through too many providers.
+  - Statistics 
+    - Revenue statistics
+    - Waiter statistics
+    - Reduce money in portemonnaies
+    - Order statistics
+    - Export event statistics
+    - Risk: Statics need a large amount of historical data. This data must be processed and stored efficiently. Optimization can quickly become time consuming. 
