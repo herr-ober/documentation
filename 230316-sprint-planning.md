@@ -2,7 +2,8 @@
 
 ### Outcomes:
 
-- Sprint planning for first sprint (16.03.2023 - 30.03.2023).
+- Sprint planning for first sprint (16.03.2023 - 30.03.2023)
+- Initial README was created which specifies guidelines and conventions
 
 
 ### Following cards are planned for the first sprint:
