@@ -19,3 +19,4 @@
 - **Feature**: Manage staff (Frontend team Delta + Team backend)
 - **Feature**: Manage product (Frontend team Delta + Team backend)
 - **Feature**: Manage table (Frontend team Delta + Team backend)
+- **Feature**: Display all orders (Frontend team Alpha)
