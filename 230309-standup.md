@@ -21,7 +21,7 @@ The Kanban Boards will have the following columns:
 
 A sprint has a duration of two weeks. Sprint Plannings, Refinements and -Reviews will happen of the corresponding point of time.
 
-### Strcuture of the sub teams:
+### Structure of the sub teams:
 
 #### Team Backend
 - Dennis Hilgert (Product Owner)
