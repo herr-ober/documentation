@@ -8,16 +8,18 @@
 
 ### Following cards are planned for the first sprint:
 
-- **Spike**: Knowledge sharing + template creation (Frontend team Alpha and frontend team Delta + Team backend)
-- **Feature**: Create organizer account (Frontend team Alpha + Team backend)
-- **Feature**: Sign in with organizer account (Frontend team Alpha + Team backend)
-- **Feature**: Sign in as staff with code (Frontend team Alpha + Team backend)
-- **Feature**: Create event (Frontend team Delta + Team backend)
-- **Feature**: Add staff (Frontend team Delta + Team backend)
-- **Feature**: Add product (Frontend team Delta + Team backend)
-- **Feature**: Add table (Frontend team Delta + Team backend)
-- **Feature**: Manage event (Frontend team Delta + Team backend)
-- **Feature**: Manage staff (Frontend team Delta + Team backend)
-- **Feature**: Manage product (Frontend team Delta + Team backend)
-- **Feature**: Manage table (Frontend team Delta + Team backend)
-- **Feature**: Display all orders (Frontend team Alpha)
+- **Spike**: Knowledge sharing + template creation (Frontend team Alpha and frontend team Delta + Team backend) (SP: 13)
+- **Feature**: Create organizer account (Frontend team Alpha + Team backend) (SP: 20)
+- **Feature**: Sign in with organizer account (Frontend team Alpha + Team backend) (SP: 8)
+- **Feature**: Sign in as staff with code (Frontend team Alpha + Team backend) (SP: 5)
+- **Feature**: Create event (Frontend team Delta + Team backend) (SP: 13)
+- **Feature**: Add staff (Frontend team Delta + Team backend) (SP: 13)
+- **Feature**: Add product (Frontend team Delta + Team backend) (SP: 20)
+- **Feature**: Add table (Frontend team Delta + Team backend) (SP: 8)
+- **Feature**: Manage event (Frontend team Delta + Team backend) (SP: 5)
+- **Feature**: Manage staff (Frontend team Delta + Team backend) (SP: 8)
+- **Feature**: Manage product (Frontend team Delta + Team backend) (SP: 5)
+- **Feature**: Manage table (Frontend team Delta + Team backend) (SP: 5)
+- **Feature**: Display all orders (Frontend team Alpha). Only html page, no backend connection. Dummy data. Not all story points are planned for this feature. (SP: 7/20).
+
+Sum of planned Story Points: 130 SP
