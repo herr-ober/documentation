@@ -22,9 +22,8 @@
   - Backend (SP: 8)
 - **Feature**: Add or delete products to/from order
   - Frontend Team Alpha/Delta (SP: 5)
-  - Backend (SP: 3)
 - **Feature**: Mark order as paid
   - Frontend Team Alpha/Delta (SP: 2)
   - Backend (SP: 2)
 
-Sum of planned Story Points: 83 SP
+Sum of planned Story Points: 80 SP
