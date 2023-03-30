@@ -5,7 +5,7 @@
 - Sprint planning for second sprint (31.03.2023 - 13.04.2023)
 
 
-### Following cards are planned for the first sprint:
+### Following cards are planned for the second sprint:
 
 - **Feature**: Sign in as staff with code (Frontend team Alpha + Team backend) (SP: 5)
 - **Feature**: Add product (Frontend team Delta) (SP: 8)
