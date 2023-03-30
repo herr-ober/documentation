@@ -8,28 +8,23 @@
 ### Following cards are planned for the first sprint:
 
 - **Feature**: Sign in as staff with code (Frontend team Alpha + Team backend) (SP: 5)
-- **Feature**: Add product (Frontend team Delta) (SP: 10)
-- **Feature**: Manage product (Frontend team Delta) (SP: 2,5)
-- **Feature**: Add table (Frontend team Delta) (SP: 4)
-- **Feature**: Manage table (Frontend team Delta) (SP: 2,5)
-- **Feature**: Display all orders (Frontend team Alpha). Functionality with backend. (SP: 7/20).
-- **Feature**: Add or delete products to/from order (SP: 8)
-  - Frontend Team Alpha/Delta (SP: 8)
-- **Feature**: Display available products by category (SP: 13)
+- **Feature**: Add product (Frontend team Delta) (SP: 8)
+- **Feature**: Manage product (Frontend team Delta) (SP: 3)
+- **Feature**: Add table (Frontend team Delta) (SP: 5)
+- **Feature**: Manage table (Frontend team Delta) (SP: 3)
+- **Feature**: Display all orders (Frontend team Alpha). Functionality with backend. (SP: 8).
+- **Feature**: Display available products by category 
   - Frontend Team Alpha/Delta (SP: 13)
-- **Feature**: Choose table (SP: 5)
+- **Feature**: Choose table 
   - Frontend Team Alpha/Delta (SP: 5)
-- **Feature**: Review and submit order (SP: 20)
-  - Frontend Team Alpha/Delta (SP: 10)
-  - Backend (SP: 10)
-- **Feature**: Add or delete products to/from order (SP: 8)
-  - Frontend Team Alpha/Delta (SP: 4)
-  - Backend (SP: 4)
-- **Feature**: Mark order as paid (SP: 3)
-  - Frontend Team Alpha/Delta (SP: 1,5)
-  - Backend (SP: 1,5)
-- **Feature**: Add or delete products to/from order (SP: 8)
-  - Frontend Team Alpha/Delta (SP: 4)
-  - Backend (SP: 4)
+- **Feature**: Review and submit order
+  - Frontend Team Alpha/Delta (SP: 13)
+  - Backend (SP: 8)
+- **Feature**: Add or delete products to/from order
+  - Frontend Team Alpha/Delta (SP: 5)
+  - Backend (SP: 3)
+- **Feature**: Mark order as paid
+  - Frontend Team Alpha/Delta (SP: 2)
+  - Backend (SP: 2)
 
-Sum of planned Story Points: 130 SP
+Sum of planned Story Points: 83 SP
