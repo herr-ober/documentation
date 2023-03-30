@@ -11,7 +11,6 @@
 - **Spike**: Knowledge sharing + template creation (Frontend team Alpha and frontend team Delta + Team backend) (SP: 13)
 - **Feature**: Create organizer account (Frontend team Alpha + Team backend) (SP: 20)
 - **Feature**: Sign in with organizer account (Frontend team Alpha + Team backend) (SP: 8)
-- **Feature**: Sign in as staff with code (Frontend team Alpha + Team backend) (SP: 5)
 - **Feature**: Create event (Frontend team Delta + Team backend) (SP: 13)
 - **Feature**: Add staff (Frontend team Delta + Team backend) (SP: 13)
 - **Feature**: Add product (Frontend team Delta + Team backend) (SP: 20)
@@ -22,4 +21,4 @@
 - **Feature**: Manage table (Frontend team Delta + Team backend) (SP: 5)
 - **Feature**: Display all orders (Frontend team Alpha). Only html page, no backend connection. Dummy data. Not all story points are planned for this feature. (SP: 7/20).
 
-Sum of planned Story Points: 130 SP
+Sum of planned Story Points: 125 SP
