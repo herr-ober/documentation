@@ -17,8 +17,6 @@
 - **Feature** Split the bill <br />
   - Backend (SP 8)
   - Delta (SP 13)
-- **Feature** View single order in detail <br />
-  - Alpha (SP 5)
 - **Feature** Add special wishes <br />
   - Backend (SP 5)
   - Delta (SP 5)
@@ -28,4 +26,4 @@
   - Backend (SP 3)
   - Delta (SP 3) <br />
 
-Sum of planned Story Points: 75 Sp
+Sum of planned Story Points: 70 Sp
