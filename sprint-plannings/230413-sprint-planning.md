@@ -1,7 +1,7 @@
 # Sprint Planning 30.03.2023
 ### Outcomes:
-- Sprint planning gor second sprint (13.04.2023 - 27.04.2023)
-### Following cards are planned fpr the second sprint:
+- Sprint planning for second sprint (13.04.2023 - 27.04.2023)
+### Following cards are planned for the second sprint:
 - **Feature** View single order in detail <br />
   - Backend (SP 5)
   - Alpha (SP 5)
