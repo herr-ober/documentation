@@ -1,1 +1,19 @@
+## Sprint Review 14.04.2023
 
+### Achieved
+
+- **Feature**: Sign in as staff with code (Frontend team Alpha + Team backend) (SP: 5)
+- **Feature**: Add product (Frontend team Delta) (SP: 8)
+- **Feature**: Manage product (Frontend team Delta) (SP: 3)
+- **Feature**: Add table (Frontend team Delta) (SP: 5)
+- **Feature**: Manage table (Frontend team Delta) (SP: 3)
+- **Feature**: Display all orders (Frontend team Alpha) (SP: 8).
+- **Feature**: Display available products by category (Frontend Team Alpha/Delta) (SP: 13)
+- **Feature**: Choose table (Frontend Team Alpha/Delta) (SP: 5)
+- **Feature**: Review and submit order (Frontend Team Alpha/Delta + Team Backend) (SP: 13/8)
+- **Feature**: Add or delete products to/from order (Frontend Team Alpha/Delta) (SP: 5)
+- **Feature**: Mark order as paid (Frontend Team Alpha/Delta + Team Backend) (SP: 2/2)
+
+Sum Story Points achived: 80
+
+## Retrospective 30.03.2023
