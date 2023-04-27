@@ -2,14 +2,21 @@
 - fixes add to bulk at the end of a sprint in the continuous flow chart
 - continuous flow chart only shows no of issue not story points
 - global backlog since sprint 2 (before: no status)
-- architecture diagram
-- sequenz diagram of the order process
-- instructions for page/application
-- look up api endpoints directly in backend code
-- roles & teams
-- kanban board (max cards per column)
-- story map
-- umls
-- who did what
-- technologieüberblick und entscheidungsargumentation
-- Scrum, Sprintpläne, Retrospektiven, User Stories
+
+
+- architecture diagram - samu
+- sequenz diagram of the order process - samu
+- instructions for page/application - matze
+- look up api endpoints directly in backend code - jonas
+- who did what - jonas
+- roles & teams -sven & dennis
+- kanban board (max cards per column) - linas
+- story map - matze (jonas)
+- [umls]
+- datenbank -matze
+- technologieüberblick und entscheidungsargumentation - dennis
+- Scrum
+- Sprintpläne -fertig
+- Retrospektiven -fertig
+- User Stories -fertig
+- lessons learned -zusammen nächsten do
