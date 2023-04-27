@@ -32,7 +32,7 @@ Sum Story Points not achived: 0
 
 ## Review Notes
 - During this sprint review we discussed that it is necessary for organizers to change their account infromation. Therefore a new user story card has been added to the user story map. It is called „update organizer account“. The „has to“ section of the product has been updated as well.
-- Also all points of the „can to“ section have been achieved during this sprint.
+- Also all points of the „can“ section have been achieved during this sprint.
 ## Retrospective 27.04.2023
 
 - Some commit messages and card names were not set properly in the past. The importance of correct naming has been stressed in this retro
