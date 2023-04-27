@@ -19,3 +19,7 @@ Mentioning the issue number with the hashtag is important!
   - ```impro(#4): Improve code layout``` (Used if the commit contains improvements)
   - ```spike(#4): Discuss layout``` (Used if team decisions were made)
   - ```docu(#4): Document xyz``` (Used if the code has been documented)
+
+- **Final Documentation File**:
+
+<a href="https://docs.google.com/document/d/1OZNTYRcaBGcYi9FujxK2I2SRuWBceooW5Y1EcfZjMOg/edit?usp=sharing" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google_Docs_logo_%282014-2020%29.svg/1200px-Google_Docs_logo_%282014-2020%29.svg.png" alt="GDocs Pic" height="60" width="41"></a>
