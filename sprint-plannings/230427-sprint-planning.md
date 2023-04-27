@@ -21,4 +21,4 @@
 - **Documentation** Improve code
   - (each team member 3 SP)
 
-Sum of planned Story Points: 71 Sp
+Sum of planned Story Points: 68 Sp
