@@ -37,6 +37,8 @@
   - Split the bill
   - Visually appealing interface
   - Performant and stable software
+  - Lock or unlock products
+  - Update organizer account
 
 - What we **could** achieve (with risks):
   - Payment options
