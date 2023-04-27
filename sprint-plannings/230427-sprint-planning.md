@@ -17,7 +17,7 @@
 - **Documentation** Create documentation document
   - (SP 8)
 - **Documentation** Continuous flow charts
-  - (SP 5)
+  - (SP 3)
 - **Documentation** Improve code
   - (each team member 3 SP)
 
