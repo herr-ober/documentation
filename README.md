@@ -6,7 +6,7 @@ Mentioning the issue number with the hashtag is important!
 - **Feature/Fix or Improvement branches**:
   - ```feature-#4-name-of-the-card```
   - ```fix-#4-name-of-the-card```
-  -   ```...```
+  - ```improvement-#4-name-of-the-card```
 
 
 - **Commit messages**:
