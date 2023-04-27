@@ -27,6 +27,7 @@
   - Delta (SP 3) <br />
 
 Sum Story Points achived: 62
+
 Sum Story Points not achived: 0
 
 ## Review Notes
