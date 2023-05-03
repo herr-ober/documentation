@@ -13,7 +13,7 @@
 - **Feature**: Manage product (Team backend) (SP: 2,5)
 - **Feature**: Add table (Team backend) (SP: 4)
 - **Feature**: Manage table (Team backend) (SP: 2,5)
-- **Feature**: Display all orders (Frontend team Alpha). Only html page, no backend connection. Dummy data. Not all story points are planned for this feature. (SP: 13/20).
+- **Feature**: Display all orders (Frontend team Alpha). Only html page, no backend connection. Dummy data. Not all story points are planned for this feature. (SP: 8/20).
 
 Sum Story Points achived: 112
 
