@@ -19,6 +19,6 @@
 - **Feature**: Manage staff (Frontend team Delta + Team backend) (SP: 8)
 - **Feature**: Manage product (Frontend team Delta + Team backend) (SP: 5)
 - **Feature**: Manage table (Frontend team Delta + Team backend) (SP: 5)
-- **Feature**: Display all orders (Frontend team Alpha). Only html page, no backend connection. Dummy data. Not all story points are planned for this feature. (SP: 7/20).
+- **Feature**: Display all orders (Frontend team Alpha). Only html page, no backend connection. Dummy data. Not all story points are planned for this feature. (SP: 8/20).
 
 Sum of planned Story Points: 125 SP
