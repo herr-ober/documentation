@@ -26,4 +26,4 @@
   - Frontend Team Alpha/Delta (SP: 2)
   - Backend (SP: 2)
 
-Sum of planned Story Points: 80 SP
+Sum of planned Story Points: 84 SP
