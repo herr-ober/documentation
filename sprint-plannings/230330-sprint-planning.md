@@ -12,7 +12,7 @@
 - **Feature**: Manage product (Frontend team Delta) (SP: 3)
 - **Feature**: Add table (Frontend team Delta) (SP: 5)
 - **Feature**: Manage table (Frontend team Delta) (SP: 3)
-- **Feature**: Display all orders (Frontend team Alpha). Functionality with backend. (SP: 8).
+- **Feature**: Display all orders (Frontend team Alpha). Functionality with backend. (SP: 12).
 - **Feature**: Display available products by category 
   - Frontend Team Alpha/Delta (SP: 13)
 - **Feature**: Choose table 
