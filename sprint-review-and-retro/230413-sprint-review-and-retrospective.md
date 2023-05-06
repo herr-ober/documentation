@@ -20,7 +20,7 @@
 
 Sum Story Points achived: 84
 
-## Retrospective 30.03.2023
+## Retrospective 14.04.2023
 - User stories were processed twice because two people were assigned to the issue -> Agree beforehand which person will process the issue and remove it from the card
 - When API specifications are changed, also change the issue cards to avoid developing on different endpoints
 - In order to avoid consequential errors, fixes are discussed as early as possible and solved together in the group
